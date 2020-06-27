@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/GeminiWind/find-me-in-Github/issues"
   },
-  "homepage": "https://github.com/GeminiWind/find-me-in-Github#readme",
+  "homepage": "http://find-me-in-github.s3-website-ap-southeast-1.amazonaws.com",
   "dependencies": {
     "axios": "^0.19.2",
     "cross-env": "^7.0.2",
